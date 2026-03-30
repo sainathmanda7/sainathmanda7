@@ -80,13 +80,13 @@ func main() {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sainathmanda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathmanda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sainathmanda7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathmanda7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainathmanda&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=FF6B6B&currStreakLabel=00ADD8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainathmanda7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=FF6B6B&currStreakLabel=00ADD8" />
 </div>
 
 ---
@@ -94,7 +94,7 @@ func main() {
 ### `activity --graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sainathmanda&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sainathmanda7&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
